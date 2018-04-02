@@ -52,7 +52,7 @@ see [node-ssh2 client connect configuration](https://github.com/mscdex/ssh2#clie
 # Examples
 
 ```js
-const dep = require('gulp-dep');
+const Dep = require('node-dep');
 
 const options = {
     "tasks": [
