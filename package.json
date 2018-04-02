@@ -1,6 +1,6 @@
 {
   "name": "node-deployer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Excute command in target server via ssh2 protocol.",
   "main": "lib/index.js",
   "directories": {
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/charleslxh/node-dep/issues"
   },
-  "homepage": "https://github.com/charleslxh/node-dep#readme"
+  "homepage": "https://github.com/charleslxh/node-dep#readme",
+  "dependencies": {
+    "ssh2": "^0.6.0"
+  }
 }

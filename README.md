@@ -5,7 +5,7 @@ Excute command in target server via ssh2 protocol.
 ## How to install
 
 ```bash
-$ npm install node-dep --save-dev
+$ npm install node-deployer --save-dev
 ```
 
 ## Configurations
@@ -57,7 +57,7 @@ see [node-ssh2 client connect configuration](https://github.com/mscdex/ssh2#clie
 ## Examples
 
 ```js
-const Dep = require('node-dep');
+const Dep = require('node-deployer');
 
 const options = {
     "tasks": [
