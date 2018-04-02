@@ -40,13 +40,13 @@ see [node-ssh2 client connect configuration](https://github.com/mscdex/ssh2#clie
 
 ## Methods
 
-- **setLogger(<object>logger)**: replace logger instance.
-- **setProxy(<object>options)**: replace proxy instance.
-- **addServer(<object>options, <function>callback)**: add a remote server.
-- **removeServer(<string>name, <function>callback)**: remove a remote server.
-- **addTask(<object>options)**: add a task.
-- **removeTask(<string>name)**: remove a task.
-- **sort(<function>callback)**: sort all tasks, default sort by priority.
+- **setLogger(< object >logger)**: replace logger instance.
+- **setProxy(< object >options)**: replace proxy instance.
+- **addServer(< object >options, < function >callback)**: add a remote server.
+- **removeServer(< string >name, < function >callback)**: remove a remote server.
+- **addTask(< object >options)**: add a task.
+- **removeTask(< string >name)**: remove a task.
+- **sort(< function >callback)**: sort all tasks, default sort by priority.
 - **start()**: start to excute all tasks.
 
 # Examples
