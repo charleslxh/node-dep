@@ -1,0 +1,27 @@
+{
+  "name": "node-dep",
+  "version": "1.0.0",
+  "description": "Excute command in target server via ssh2 protocol.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleslxh/node-dep.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ssh2",
+    "deploy"
+  ],
+  "author": "charles.liao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charleslxh/node-dep/issues"
+  },
+  "homepage": "https://github.com/charleslxh/node-dep#readme"
+}
