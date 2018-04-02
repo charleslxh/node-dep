@@ -49,7 +49,7 @@ see [node-ssh2 client connect configuration](https://github.com/mscdex/ssh2#clie
 - **sort(< function >callback)**: sort all tasks, default sort by priority.
 - **start()**: start to excute all tasks.
 
-## use with Grunt and Gulp
+## Use with grunt and gulp
 
 - **Grunt Plugin**: https://github.com/charleslxh/grunt-dep
 - **Gulp Plugin**: https://github.com/charleslxh/gulp-dep
