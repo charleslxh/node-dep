@@ -1,5 +1,5 @@
 {
-  "name": "node-dep",
+  "name": "node-deployer",
   "version": "1.0.0",
   "description": "Excute command in target server via ssh2 protocol.",
   "main": "lib/index.js",
